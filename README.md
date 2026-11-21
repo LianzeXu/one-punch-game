@@ -1,4 +1,4 @@
-# 一拳爆装 v2.1
+# 一拳爆装 v2.2
 
 单页 HTML5 点击放置游戏，直接打开 `index.html` 或部署到 GitHub Pages。仓库根目录提供空的 `.nojekyll`。
 
@@ -10,3 +10,8 @@
 
 ## GitHub Pages
 将 `index.html`、空文件 `.nojekyll`、`README.md` 放在公开仓库根目录；Settings → Pages 选择 `main` 分支与 `/(root)`。无需构建工具或后端。
+
+## v2.2：科技风界面
+
+- 改为深色霓虹 HUD、扫描网格与全息战斗区；保留三项无等级封顶升级及逐项 ALL IN。
+- Auto Attack 与金币加成采用递减收益曲线，升级成本递增。
